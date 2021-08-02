@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa2956ae-5af7-46c6-9c09-6f73d2fe518e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Question 0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/Activate.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/activate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/activate.csh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/activate.fish" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/python" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/python3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fa2956ae-5af7-46c6-9c09-6f73d2fe518e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/Question 0.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -123,9 +113,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1919" y="25" width="1920" height="996" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1864139" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1864139" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -133,7 +124,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32962137" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -147,7 +138,7 @@
     <entry file="file://$PROJECT_DIR$/Question 0.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
